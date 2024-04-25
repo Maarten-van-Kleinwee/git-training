@@ -19,4 +19,8 @@ This stores global configurations for git such as e-mail, name, editor and more.
 ```
 git config --list
 ```
+Set the global editor
+```
+git config --global core.editor nano
+```
 
