@@ -1,3 +1,16 @@
-# git-training
-A new line of code
-Yet another line of code
+## Cloning
+We can clone three ways: HTTPS, SSH, GitHub CLI
+
+### HTTPS
+```sh
+git clone URL
+```
+
+## Commits
+
+## Branches
+
+## Remotes
+
+## Stashing
+
