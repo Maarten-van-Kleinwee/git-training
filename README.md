@@ -14,3 +14,9 @@ git clone URL
 
 ## Stashing
 
+## Gitconfig file
+This stores global configurations for git such as e-mail, name, editor and more.
+```
+git config --list
+```
+
